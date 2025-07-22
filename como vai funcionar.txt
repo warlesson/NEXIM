@@ -1,0 +1,22 @@
+1 - clicar na area de busca do PART 
+2 - digitar o part original
+3 - clicar em cima do part encontrado
+4 - arrastar pra cima da setinha
+5 - clicar em copy as 
+6 - clicar em new name
+7 - digitar part similar
+8 - clicar em ok
+
+retorna para 
+
+9 - clicar em cima do part 
+10 - arrastar para cima da setinha
+11 - copy as
+
+esse loop continua até cadastrar todos os part similar.
+depois de cadastrados o loop retorna para
+
+12 - clicar em x = apagar ultimo part
+13 - clicar em cima da area de procurar part
+14 - digitar o part original
+15 - depois volta fazer tudo de novo do passo 3
